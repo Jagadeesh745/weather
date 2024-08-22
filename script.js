@@ -91,4 +91,4 @@ submit.addEventListener('click',(e)=>{
     getweather(city.value);
 });
 
-getweather("New Delhi");
+getweather("Raipur");
